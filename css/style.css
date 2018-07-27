@@ -50,7 +50,7 @@ p {
 }
 
 #footer {
-    display: relative;
+    display: block;
     font-size: .5em;
     float: right;
 }
