@@ -52,5 +52,5 @@ p {
 #footer {
     display: block;
     font-size: .8em;
-    float: right;
+    text-align: right;
 }
