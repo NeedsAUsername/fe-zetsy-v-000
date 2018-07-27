@@ -48,3 +48,8 @@ p {
     font-size: 1em;
     margin: 20px;
 }
+
+#footer {
+    font-size: .5em;
+    float: right;
+}
