@@ -32,6 +32,10 @@ h1 {
     margin: 0 0 5px;
 }
 
+h2 {
+    color: rgb(107 129 122);
+}
+
 img {
     border-style: solid;
     border-width: 5px;
