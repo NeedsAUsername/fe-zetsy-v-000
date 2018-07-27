@@ -26,7 +26,8 @@ h1 {
     font-family: Baskerville, serif;
     color: rgb(147 175 166);
     font-size: 5em;
-    border-bottom: 1px solid #ccc; 
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px; 
 }
 
 img {
