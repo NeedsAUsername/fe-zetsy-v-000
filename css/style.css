@@ -61,10 +61,10 @@ a {
 
 }
 
-a.hover {
+a:hover {
     text-decoration: underline;
 }
 
-a.visited {
+a:visited {
     color: purple;
 }
