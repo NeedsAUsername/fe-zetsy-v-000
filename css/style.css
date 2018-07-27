@@ -24,5 +24,11 @@ body {
 
 h1 {
     font-family: Baskerville, serif;
-    color: rgb(147 175 166);	
+    color: rgb(147 175 166);
+}
+
+img {
+    border-style: solid;
+    border-width: 5px;
+    border-color: 
 }
